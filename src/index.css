@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Cinzel', serif;
+  --font-handwriting: 'Caveat', cursive;
+
+  /* Earthy Warm Luxury Palette */
+  --color-ivory: #F6EBDD;
+  --color-ivory-light: #FBF6EF;
+  --color-ivory-dark: #ECE0D1;
+  --color-espresso: #3B2923;
+  --color-espresso-dark: #2A1D19;
+  --color-espresso-muted: #5C453D;
+  --color-terracotta: #B85F43;
+  --color-terracotta-dark: #9E4D34;
+  --color-honey: #D5AA61;
+  --color-olive: #85846A;
+  --color-rose: #D8A092;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: #F6EBDD;
+    color: #3B2923;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-serif-heading {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Custom subtle warm paper texture */
+.paper-texture {
+  background-color: #FBF6EF;
+  background-image: radial-gradient(#D5AA61 0.4px, transparent 0.4px), radial-gradient(#D5AA61 0.4px, #FBF6EF 0.4px);
+  background-size: 16px 16px;
+  background-position: 0 0, 8px 8px;
+}
+
+/* Tasteful warm panels */
+.warm-card {
+  background: #FFFFFF;
+  border: 1px solid #ECE0D1;
+}
+
+.espresso-panel {
+  background-color: #3B2923;
+  color: #F6EBDD;
+}

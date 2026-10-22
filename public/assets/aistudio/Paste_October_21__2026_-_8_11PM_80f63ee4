@@ -1,0 +1,586 @@
+BUILD A COMPLETE, BEAUTIFUL, MATURE, VIBRANT AND INTERACTIVE BIRTHDAY WEBSITE FOR PAUL OLAYEMI (YOUNG)
+
+YOUR ROLE
+
+Act as an expert creative director, senior UI/UX designer, full-stack developer, and digital storyteller.
+
+Build a complete, personalised, responsive birthday tribute website for Paul Olayemi, affectionately known as Young.
+
+This website is a special birthday gift created by someone who cares about him. It should celebrate his personality, preserve memories from his friends, showcase heartfelt birthday messages and testimonials, honour his values, and encourage his ambition to become a coach.
+
+I want a finished, working website, not merely a design concept, wireframe, or list of suggestions.
+
+This is a single, comprehensive request. Carefully plan the whole application before implementation so the design, content, features, and technical structure work together. Avoid unnecessary back-and-forth questions. Use the supplied information and make sensible design decisions for anything unspecified.
+
+Prioritise the complete visual experience and the ability to customise the content. Do not waste resources generating multiple alternative designs or repeatedly rebuilding the same sections.
+
+1. THE EXACT DESIGN I WANT
+
+The website should feel like a combination of:
+
+* A sophisticated birthday celebration.
+* A stylish modern editorial magazine.
+* A personal digital scrapbook.
+* A cinematic friendship documentary.
+* A collection of heartfelt letters and memories.
+
+The overall feeling should be mature, youthful, warm, vibrant, playful, emotional, and premium.
+
+It must not look childish, excessively flashy, dull, overly corporate, or like a funeral or memorial website.
+
+Colour palette
+
+Use a carefully balanced palette featuring:
+
+* Deep navy or rich midnight blue.
+* Sophisticated cobalt blue.
+* Warm cream and ivory.
+* Muted champagne gold.
+* Tasteful burnt orange or terracotta.
+* Small accents of butter yellow.
+
+Use white or cream space to balance the brighter colours. Use dark backgrounds selectively for contrast, not throughout the entire website.
+
+Do not use every colour equally. Choose a cohesive primary palette and reserve the brighter colours for important headings, buttons, gallery details, and decorative elements.
+
+Avoid excessive neon, rainbow gradients, glitter, childish stickers, and constant animation.
+
+Typography
+
+Use elegant serif typography for emotional headlines and modern sans-serif typography for body text.
+
+Use bold, expressive headings, clean layouts, beautiful spacing, and readable text sizes.
+
+The design should feel suitable for a young adult who appreciates style, friendship, personality, and ambition.
+
+Photography-led design
+
+Photographs must be central to the website. Use large photographs, tasteful collages, editorial layouts, photo strips, overlapping images where appropriate, and beautiful image galleries.
+
+Allow the photographs to provide much of the personality and colour.
+
+Use real photographs of Young and his friends once uploaded. Do not use random people as substitutes for Young.
+
+Animation
+
+Include:
+
+* Smooth scrolling.
+* Gentle fade-in effects.
+* Subtle photo reveals.
+* Tasteful hover effects.
+* Soft transitions between sections.
+* A small celebratory confetti effect at the end.
+
+Animations must remain smooth on mobile devices and respect reduced-motion accessibility preferences.
+
+The website should feel alive without making visitors dizzy or distracting them from the memories.
+
+2. OPENING SCREEN — THE BIRTHDAY EXPERIENCE
+
+Create a visually impressive hero section that immediately communicates that this website is a special gift.
+
+Feature a large, replaceable photograph of Young.
+
+Display:
+
+“A SPECIAL CELEBRATION OF A REMARKABLE PERSON”
+
+HAPPY BIRTHDAY, PAUL OLAYEMI!
+
+“Big energy. Bigger heart. Unforgettable memories.”
+
+Supporting message:
+
+“Today, we celebrate the person you are, the memories you’ve given us, the lives you touch, and the beautiful future you are working towards.”
+
+Add a beautiful button labelled “ENTER THE CELEBRATION” that smoothly scrolls into the website.
+
+Include a subtle animated visual accent and tasteful celebratory details.
+
+Make the hero photograph, headline, subtitle, and supporting message editable through the website’s content editor.
+
+Do not invent his age or birthday date. Allow me to enter these later if I want.
+
+3. BACKGROUND MUSIC — CREATE THE RIGHT VIBE
+
+Include an optional background music feature to give the website a warm, celebratory atmosphere.
+
+Requirements:
+
+* Provide a small, elegant music player or floating music control.
+* Include play, pause, and mute controls.
+* Show a clear indication of whether music is playing.
+* Let me select or replace the audio file.
+* Allow me to turn the music feature off entirely.
+* Do not autoplay sound when someone opens the website. Browsers commonly block this, and visitors should choose to start the music.
+* Once the visitor presses play, allow the music to continue softly while they explore the site, where technically supported.
+* Make sure music does not interrupt video audio.
+* Include a default muted state and sensible volume control.
+
+If no audio file has been provided, show the music control as inactive or explain how to add a track. Do not include copyrighted music without permission.
+
+The design should still feel complete and beautiful when music is disabled.
+
+4. SECTION ONE — THE MAN BEHIND THE SMILE
+
+Heading:
+
+“A ROOM IS NEVER QUITE THE SAME WHEN YOUNG IS THERE.”
+
+Use the following story:
+
+If there is one thing you should know about Young, it is that he brings an energy of his own wherever he goes.
+
+He is vibrant, lively, energetic, and almost impossible to be around without catching a little of his happiness. Put Young in a room, and chances are, laughter will soon follow. He has that special way of making people feel comfortable, turning ordinary moments into memorable ones, and reminding everyone that life can be a little lighter when you have the right people around you.
+
+But beyond the laughter and lively personality is a genuinely lovable person. Young brings warmth into friendships and has a presence that makes people glad to have him around.
+
+He is fun, but he is also dependable. He knows how to make people laugh, but he also knows when to stand beside them. There is a beautiful balance in him: the vibrant friend who brings the fun and the protective big brother who makes sure his people are okay.
+
+Young is not just someone you have fun with. He is someone you feel you have in your corner.
+
+Design this section with a mixture of joyful photographs, sophisticated colour panels, elegant typography, and personal captions.
+
+5. SECTION TWO — THE BIG BROTHER EVERYONE NEEDS
+
+Heading:
+
+“A BIG HEART. A STRONG BACKBONE. A BROTHER IN EVERY SENSE.”
+
+Use the following story:
+
+Some people become friends. Others become family without even trying.
+
+Young has that big-brother energy that makes people feel they are not entirely alone in whatever life brings. He is protective of the people he cares about, looks out for his friends, and carries a kind of loyalty that goes beyond convenience.
+
+When he cares about you, he shows up. His loyalty is not the sort that disappears when things become uncomfortable. He stands by his people, and he takes friendship seriously.
+
+But one of the things that makes Young special is that his loyalty does not mean he will agree with everything you do.
+
+If you are making a mistake or heading in the wrong direction, he is the kind of person who will tell you to your face. He would rather correct you honestly than watch you continue doing something foolish just to keep the peace.
+
+That honesty may not always be the easiest thing to hear, but it comes with something valuable: the willingness to be real with the people he cares about.
+
+Young is the friend who laughs with you, stands up for you, checks on you, protects you, and tells you the truth when you need to hear it.
+
+He reminds us that real brotherhood is not only about being present for the good times. It is also about caring enough to speak up, staying loyal when things get difficult, and wanting the people around you to become better.
+
+A friend by choice. A brother by heart. A protector by nature.
+
+Pair this story with photographs of Young and his friends. Make it feel warm, affectionate, and personal rather than overly serious.
+
+6. SECTION THREE — THE VALUES HE STANDS FOR
+
+Heading:
+
+“A MAN WHO KNOWS WHAT HE STANDS FOR.”
+
+Use the following story:
+
+For Young, character matters.
+
+He values honour, respect, and integrity. He believes that the way a person lives, treats others, and keeps their word says something important about who they are.
+
+Respect is important to him, not simply as a matter of words, but as a principle that should be reflected in how people relate to one another.
+
+Integrity matters because character should not disappear when nobody is watching. To Young, being a person of principle means making choices that align with what you believe, even when those choices are not necessarily the easiest or most popular.
+
+He also holds firm personal convictions about his lifestyle. He does not believe in smoking, and he believes in being committed to one sexual partner rather than having multiple sexual partners.
+
+These are personal standards he chooses to live by, reflecting his own understanding of discipline, commitment, and the kind of man he wants to be.
+
+Young’s values are part of his story. They remind us that a person’s character is shaped not only by their ambitions, but also by the principles they choose to uphold along the way.
+
+Because who you become matters just as much as what you achieve.
+
+Present honour, respect, integrity, loyalty, and commitment as tasteful visual highlights. Do not make the section look like a corporate presentation.
+
+7. SECTION FOUR — THE COACH HE IS BECOMING
+
+Heading:
+
+“THE ENERGY IS THERE. THE HEART IS THERE. THE JOURNEY IS JUST BEGINNING.”
+
+Use the following story:
+
+Behind the laughter, the vibrant personality, and the big-brother energy is a young man with an ambition of his own: to become a coach.
+
+Coaching is more than a title to aspire to. At its heart, it is about people. It is about helping others recognise their potential, encouraging them through difficult moments, challenging them when they need direction, and supporting them as they work towards becoming better versions of themselves.
+
+In many ways, some of the qualities people appreciate about Young already connect with that vision.
+
+He knows how to bring energy into a room. He values honesty enough to correct the people he cares about. He understands the importance of loyalty, respect, and standing by others. He carries a protective instinct and the kind of big-brother presence that can make people feel supported.
+
+These qualities can provide a meaningful foundation for the coach he hopes to become.
+
+The journey ahead will ask him to keep learning, develop his skills, deepen his understanding of people, and turn his passion into purposeful action. There will be lessons to learn, challenges to overcome, and opportunities to grow.
+
+But every meaningful journey begins somewhere, and this is a chapter worth celebrating.
+
+Today, we celebrate not only Young’s ambition, but also the possibility of what he can build with dedication, discipline, and a genuine desire to help others.
+
+The energy is there. The heart is there. Now comes the journey of turning that potential into impact.
+
+Design this as a forward-looking, visually powerful section. Use a bold portrait, sophisticated typography, and a clear visual sense of growth and possibility.
+
+Do not invent qualifications, clients, awards, or coaching accomplishments.
+
+8. SECTION FIVE — HIS DREAMS FOR THE FUTURE
+
+Heading:
+
+“MAY THE MAN YOU DREAM OF BECOMING MAKE YOU PROUD.”
+
+Use the following message:
+
+Young, your story is still unfolding.
+
+There are people you have yet to meet, lessons you have yet to learn, opportunities you have yet to discover, and dreams that have not yet found their moment.
+
+May you grow into a coach whose presence inspires confidence, whose words bring clarity, and whose work makes a meaningful difference in people’s lives.
+
+May you continue to develop the knowledge, wisdom, discipline, and experience that will help you turn your ambition into something real. May your desire to help others be matched by a willingness to keep learning, listening, and growing yourself.
+
+May you build a future that reflects the values you hold dear: honour, respect, integrity, and commitment.
+
+May you never lose the vibrant spirit that brings laughter to your friendships. May you always find people who appreciate your loyalty, value your honesty, and support you as wholeheartedly as you support them.
+
+And as life opens new doors for you, may you remember that success is not only about the goals you achieve. It is also about the person you become and the lives you touch along the way.
+
+There is still so much ahead of you, Young. So much to discover, so much to build, and so much potential waiting to be developed.
+
+May your future be bigger than your fears, your growth stronger than your setbacks, and your impact greater than you ever imagined.
+
+Here is to the coach you are working towards becoming, the brother your friends know and love, and the man whose next chapters are still waiting to be written.
+
+Give this section an emotional, hopeful, uplifting design with beautiful photographs and generous space around the text.
+
+9. SECTION SIX — THE MEMORY GALLERY
+
+Heading:
+
+“LITTLE MOMENTS. LIFETIME MEMORIES.”
+
+This is one of the most important features of the entire website.
+
+I have many photographs from friends and want to be able to upload, arrange, and organise them exactly how I want.
+
+Build a genuine photo and video gallery with a simple administrator interface.
+
+Photo and video management
+
+Allow me to:
+
+* Upload multiple photographs at once.
+* Upload videos or add links to hosted videos.
+* Select individual photographs from my device.
+* Add, edit, and delete photographs.
+* Change captions and descriptions.
+* Rearrange photographs into my preferred order.
+* Drag and drop photographs to reorder them, where supported.
+* Choose which photograph appears first.
+* Select a featured photograph.
+* Create and edit albums.
+* Move photographs between albums.
+* Choose the display layout for an album.
+* Preview the gallery before publishing.
+* Hide individual images without permanently deleting them.
+* Delete unwanted images after confirmation.
+
+Support common image formats such as JPG, PNG, and WebP, along with common video formats where the hosting solution supports them.
+
+Albums and categories
+
+Allow me to create custom albums, including examples such as:
+
+* Young Through the Years.
+* The Boys and the Memories.
+* Laugh Until It Hurts.
+* Unforgettable Moments.
+* Behind the Scenes.
+* Celebrations and Adventures.
+* The People Who Love Young.
+* Random Moments That Became Memories.
+
+These are only suggested categories. I must be able to create, rename, reorder, and remove albums myself.
+
+Gallery design
+
+Use a sophisticated mix of:
+
+* Editorial photo grids.
+* Masonry-style layouts.
+* Photo collages.
+* Polaroid-inspired frames used sparingly.
+* Full-width featured images.
+* Elegant video thumbnails.
+* Captions and small handwritten-style annotations.
+
+Keep the gallery stylish, mature, and vibrant. Do not make every photograph a tiny card.
+
+Visitors must be able to tap any photograph to open it in a large viewer, move between photographs, read its caption, and close the viewer easily.
+
+Allow videos to play with proper controls.
+
+Important upload requirement
+
+Do not create fake upload buttons or a gallery that only works with sample images.
+
+Use real persistent file storage so the photographs and videos remain available after refreshing the page, reopening the website, or accessing it from another device.
+
+For a simple full-stack application, use Firebase Storage or another suitable configured cloud storage service. If a third-party service requires configuration, clearly explain what is needed.
+
+Optimise photographs for display while retaining the original uploaded files where practical. Apply reasonable file-size limits and validation.
+
+If the builder cannot configure uploads automatically, provide a working, clearly explained setup path rather than pretending uploads are functional.
+
+10. SECTION SEVEN — TESTIMONIALS FROM FRIENDS
+
+Heading:
+
+“DON’T JUST TAKE OUR WORD FOR IT.”
+
+Create a beautiful wall of testimonials celebrating what people appreciate about Young.
+
+Each testimonial should include:
+
+* The contributor’s name.
+* Their photograph, if provided.
+* Their relationship to Young, if they want to share it.
+* Their message.
+* An optional date.
+
+Allow testimonials to appear in varied layouts, such as elegant quotation cards, editorial blocks, and a responsive carousel.
+
+Invite contributors to answer questions such as:
+
+* What do you admire most about Young?
+* What is your favourite memory with him?
+* What makes him a good friend?
+* What does his big-brother energy mean to you?
+* What do you wish for his future?
+* Why do you believe he has the potential to become a great coach?
+
+Allow friends to submit their own testimonials through a mobile-friendly form.
+
+Provide an optional photo upload with each submission.
+
+Store submissions persistently and allow me to approve, edit, hide, or reject them before publication.
+
+Never invent testimonials or falsely attribute messages to real people.
+
+11. SECTION EIGHT — BIRTHDAY WISHES AND MESSAGES
+
+Heading:
+
+“A LITTLE LOVE FOR THE BIRTHDAY BOY.”
+
+Create a dedicated birthday message wall where friends can leave their wishes.
+
+Each submission should support:
+
+* Contributor’s name.
+* Birthday message.
+* Optional photograph.
+* Optional short video greeting.
+* Optional relationship to Young.
+
+Use a warm, inviting, colourful design that encourages friends to participate.
+
+Display approved messages as attractive digital notes or cards.
+
+Include a button labelled “LEAVE YOUNG A MESSAGE”.
+
+When clicked, open a form with clear labels and helpful validation.
+
+After a successful submission, display:
+
+“Your message has been received with love. Thank you for being part of Young’s story.”
+
+Do not claim a message has been saved unless the backend confirms successful storage.
+
+Protect against spam and malicious uploads. Require approval before displaying public submissions.
+
+Allow me to edit messages, correct spelling, reorder featured messages, and remove content through the administrator dashboard.
+
+12. SECTION NINE — THE BIRTHDAY VIDEO TRIBUTE
+
+Heading:
+
+“LAUGHTER. LOVE. MEMORIES. PRESS PLAY.”
+
+Create a cinematic video tribute section where I can feature a montage made from pictures, videos, and birthday greetings from friends.
+
+Include:
+
+* A replaceable video thumbnail.
+* A prominent play button.
+* A responsive video player.
+* A title and optional description.
+* An option to replace the video.
+* Support for an uploaded video file or a supported hosted video link.
+
+Make this section feel like a personal mini-documentary rather than a generic embedded video.
+
+Do not autoplay sound.
+
+Preserve video quality where practical, but use suitable compression or hosting to avoid making the website excessively slow.
+
+If a video has not been added yet, show an elegant placeholder and explain how I can add one.
+
+13. SECTION TEN — MY PERSONAL LETTER TO YOUNG
+
+Heading:
+
+“THERE ARE THINGS A SIMPLE BIRTHDAY TEXT CANNOT SAY.”
+
+Create a dedicated personal-letter section.
+
+Use a warm cream background, elegant typography, a subtle paper texture, and a personal editorial layout.
+
+Start with this editable placeholder:
+
+“Dear Young,
+
+Today, I wanted to give you something a little different — something that holds memories, celebrates the person you are, and reminds you that your story matters.
+
+This is a little collection of love, laughter, gratitude, and good wishes from the people who are happy to be part of your journey.”
+
+Leave space for me to write my own personal message.
+
+I must be able to edit the title and every word of the letter, save changes, and preview the result before publishing.
+
+Do not invent personal experiences between Young and the website creator.
+
+14. SECTION ELEVEN — THE GRAND FINALE
+
+Create a colourful, beautiful, emotionally memorable closing section.
+
+Use a favourite photograph of Young, sophisticated typography, subtle animated details, and a tasteful celebratory effect.
+
+Display:
+
+“ONE OF ONE. NEVER TWO.”
+
+“HAPPY BIRTHDAY, YOUNG!”
+
+“Keep laughing. Keep growing. Keep showing up for your people. And keep becoming everything you dream of being.”
+
+Follow this with:
+
+“He is the laughter in the room, the brother in your corner, the voice that tells you the truth, and a man with a vision still unfolding.
+
+Today, we celebrate who Young is, appreciate what he brings into our lives, and look forward to all he is yet to become.”
+
+Include a button labelled “CELEBRATE YOUNG” that triggers a short, tasteful confetti animation.
+
+Finish with:
+
+“Made with love, laughter, and memories for Paul Olayemi.”
+
+Allow me to replace the closing photograph and edit the final messages.
+
+15. A REAL ADMIN DASHBOARD — I MUST BE ABLE TO EDIT EVERYTHING
+
+Build a simple, secure administrator dashboard accessible only to an authorised administrator.
+
+The website is a gift that I want to maintain myself, so make it easy for a beginner to use.
+
+From the dashboard, I must be able to:
+
+* Edit every section heading and paragraph.
+* Change the website’s main colours from a small set of tasteful presets.
+* Upload and replace Young’s photographs.
+* Upload and manage multiple photographs.
+* Create and manage albums.
+* Reorder images and albums.
+* Add, replace, and remove videos.
+* Add and edit captions.
+* Edit the personal letter.
+* Edit birthday messages and introductory text.
+* Add, edit, approve, hide, and delete testimonials.
+* Moderate birthday wishes.
+* Edit the coaching journey and future dreams sections.
+* Change the background music file and music settings.
+* Preview changes before publication.
+* Publish approved content.
+* Restore hidden content where appropriate.
+
+Use a simple layout with clear labels, an image-preview area, save buttons, helpful success messages, and confirmation before permanent deletion.
+
+I should not have to edit source code just to replace a photograph, change a message, or add a new memory.
+
+Use real persistent storage. Protect administrator access with authentication and proper authorisation. Never expose private credentials in frontend code.
+
+16. TECHNICAL REQUIREMENTS AND IMPLEMENTATION
+
+Build the entire website as one cohesive application.
+
+Use the following approach where supported:
+
+* React for the user interface.
+* A clean component-based architecture.
+* Firebase or a comparable backend for persistent data, authentication, and file storage.
+* Responsive layouts suitable for mobile, tablet, and desktop.
+* Secure file uploads and appropriate access rules.
+* Database-backed albums, captions, testimonials, birthday wishes, and page content.
+* Accessible forms and keyboard-friendly navigation.
+* Image optimisation and lazy loading.
+* Proper loading, empty, success, and error states.
+* Clear validation and helpful messages.
+* Functional navigation and working controls.
+* Environment variables or server-side configuration for secret credentials.
+
+Separate public content from administrator functions.
+
+Do not store all content only in temporary browser memory or local storage if it needs to be shared with visitors across different devices.
+
+Do not hard-code the photo gallery in a way that requires editing code to add new photographs.
+
+Do not implement fake authentication, fake uploads, fake database saving, or decorative buttons that do nothing.
+
+If the chosen builder cannot automatically provision a database or file-storage service, implement as much as possible and provide a concise, beginner-friendly list of the remaining configuration steps. Never claim those features work until they have been implemented and tested.
+
+17. MAKE IT EASY TO PUBLISH AND SHARE
+
+Prepare the website for public sharing through a single link that I can send to friends on WhatsApp.
+
+Include:
+
+* A suitable page title: “Happy Birthday, Paul Olayemi | The Young Tribute”.
+* A short, beautiful link-preview description.
+* A suitable preview image based on a photograph I choose.
+* A responsive mobile layout.
+* Clear instructions for publishing the site and obtaining its public URL.
+* Instructions for changing the website content after publishing.
+
+The website must not expose the administrator dashboard to public visitors.
+
+Do not publish private photographs or personal information without permission. Provide a way to remove content if requested.
+
+18. FINAL EXECUTION INSTRUCTIONS
+
+This is the complete brief. Use it as the single source of truth.
+
+Implement the complete page structure and all the supplied stories. Do not omit sections because the prompt is long.
+
+Do not ask me to provide information that is already included here.
+
+Do not invent missing personal details, testimonials, photographs, qualifications, achievements, or memories.
+
+Do not repeatedly redesign the same page or generate multiple unnecessary alternatives.
+
+Build the complete visual experience first, with all sections present and all supplied content incorporated. Then implement functional media uploads, persistent data, birthday message forms, testimonials, music controls, and administrator features using the most practical supported solution.
+
+Keep the code organised and minimise unnecessary complexity. Test the main visitor journey, the gallery, form submissions, media playback, administrator permissions, and persistence.
+
+The finished website should be mature but vibrant, fun but tasteful, emotional but not overly sentimental, and sophisticated without being boring.
+
+Most importantly, the site should feel like Young himself: energetic, lovable, loyal, protective, honest, full of life, and a man with a future worth celebrating.
+
+The desired reaction is:
+
+“THIS IS SO YOUNG. YOU CAN SEE HOW MUCH LOVE WENT INTO THIS.”
+
+Build it now.
