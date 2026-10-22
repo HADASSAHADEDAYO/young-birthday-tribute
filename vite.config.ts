@@ -20,3 +20,8 @@ export default defineConfig(() => {
     },
   };
 });
+return {
+ base: '/young-birthday-tribute/',
+  return {
+  base: '/young-birthday-tribute/',
+  plugins: [react(), tailwindcss()],
